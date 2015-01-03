@@ -6,10 +6,15 @@ This is a flask broker that will listen for POST hooks from your bitbucket repos
 
 # Requirements #
 To use this brokr you need:
+
 *Flask
+
 *Python 2.7
+
 *[Pytrack](https://github.com/crimsondesigns/PyTrack)
+
 *Requests
+
 *Youtrack 4.0 and newer (This has not been tested on anything before 4.0)
 
 # Usage #
